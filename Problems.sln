@@ -3,19 +3,29 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sock_merchant", "Problems1\sock_merchant.csproj", "{BF263681-A2A4-45E6-9F25-4F4C72B0727D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sock_merchant", "HackerRank\InterView Preparation\Warm Up\Sock Merchant\sock_merchant.csproj", "{BF263681-A2A4-45E6-9F25-4F4C72B0727D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple_array_sum", "Simple_array_sum\Simple_array_sum.csproj", "{A57E21F1-2EB9-42C1-9ECB-276014BAFA7C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple_array_sum", "HackerRank\Problem Solving\Simple_array_sum\Simple_array_sum.csproj", "{A57E21F1-2EB9-42C1-9ECB-276014BAFA7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compare_the_Triplets", "Compare_the_Triplets\Compare_the_Triplets.csproj", "{154B78E0-D1C4-4AA2-9AFB-F8649DB74B34}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compare_the_Triplets", "HackerRank\Problem Solving\Compare_the_Triplets\Compare_the_Triplets.csproj", "{154B78E0-D1C4-4AA2-9AFB-F8649DB74B34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_Very_big_sum", "A_Very_big_sum\A_Very_big_sum.csproj", "{2B198F1D-3CCB-4627-9274-2D66C183FE7A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_Very_big_sum", "HackerRank\Problem Solving\A_Very_big_sum\A_Very_big_sum.csproj", "{2B198F1D-3CCB-4627-9274-2D66C183FE7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagonal_Difference", "Diagonal_Difference\Diagonal_Difference.csproj", "{ECC4B64B-F923-4D0C-9544-B324688F077D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagonal_Difference", "HackerRank\Problem Solving\Diagonal_Difference\Diagonal_Difference.csproj", "{ECC4B64B-F923-4D0C-9544-B324688F077D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting_valley", "Counting_valley\Counting_valley.csproj", "{8B9C41EB-B476-4B74-868B-CF1E7BE721D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting_valley", "HackerRank\InterView Preparation\Warm Up\Counting_valley\Counting_valley.csproj", "{8B9C41EB-B476-4B74-868B-CF1E7BE721D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jumping_on_Clouds", "Jumping_on_Clouds\Jumping_on_Clouds.csproj", "{1B50187E-DE63-433B-ADEA-208847A76858}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jumping_on_Clouds", "HackerRank\InterView Preparation\Warm Up\Jumping_on_Clouds\Jumping_on_Clouds.csproj", "{1B50187E-DE63-433B-ADEA-208847A76858}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InterView Prepartion", "InterView Prepartion", "{DF605535-BA53-4F5A-AA96-EEA6CFD767E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Warm UP", "Warm UP", "{D5133368-98BF-434C-B345-6A00B9863C0D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HackerRank", "HackerRank", "{D2C5F587-CFD5-4036-A30A-158D69248F40}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem Solving", "Problem Solving", "{83A94F54-C504-43E7-9DAB-0B2470178AB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repeated_String", "HackerRank\InterView Preparation\Warm Up\Repeated_String\Repeated_String.csproj", "{01B655C1-6757-4786-A204-69808F317ECE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,8 +61,25 @@ Global
 		{1B50187E-DE63-433B-ADEA-208847A76858}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B50187E-DE63-433B-ADEA-208847A76858}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B50187E-DE63-433B-ADEA-208847A76858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01B655C1-6757-4786-A204-69808F317ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01B655C1-6757-4786-A204-69808F317ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01B655C1-6757-4786-A204-69808F317ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01B655C1-6757-4786-A204-69808F317ECE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BF263681-A2A4-45E6-9F25-4F4C72B0727D} = {D5133368-98BF-434C-B345-6A00B9863C0D}
+		{A57E21F1-2EB9-42C1-9ECB-276014BAFA7C} = {83A94F54-C504-43E7-9DAB-0B2470178AB0}
+		{154B78E0-D1C4-4AA2-9AFB-F8649DB74B34} = {83A94F54-C504-43E7-9DAB-0B2470178AB0}
+		{2B198F1D-3CCB-4627-9274-2D66C183FE7A} = {83A94F54-C504-43E7-9DAB-0B2470178AB0}
+		{ECC4B64B-F923-4D0C-9544-B324688F077D} = {83A94F54-C504-43E7-9DAB-0B2470178AB0}
+		{8B9C41EB-B476-4B74-868B-CF1E7BE721D6} = {D5133368-98BF-434C-B345-6A00B9863C0D}
+		{1B50187E-DE63-433B-ADEA-208847A76858} = {D5133368-98BF-434C-B345-6A00B9863C0D}
+		{DF605535-BA53-4F5A-AA96-EEA6CFD767E4} = {D2C5F587-CFD5-4036-A30A-158D69248F40}
+		{D5133368-98BF-434C-B345-6A00B9863C0D} = {DF605535-BA53-4F5A-AA96-EEA6CFD767E4}
+		{83A94F54-C504-43E7-9DAB-0B2470178AB0} = {D2C5F587-CFD5-4036-A30A-158D69248F40}
+		{01B655C1-6757-4786-A204-69808F317ECE} = {D5133368-98BF-434C-B345-6A00B9863C0D}
 	EndGlobalSection
 EndGlobal
