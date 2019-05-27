@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_Very_big_sum", "A_Very_bi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagonal_Difference", "Diagonal_Difference\Diagonal_Difference.csproj", "{ECC4B64B-F923-4D0C-9544-B324688F077D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting_valley", "Counting_valley\Counting_valley.csproj", "{8B9C41EB-B476-4B74-868B-CF1E7BE721D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{ECC4B64B-F923-4D0C-9544-B324688F077D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECC4B64B-F923-4D0C-9544-B324688F077D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECC4B64B-F923-4D0C-9544-B324688F077D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B9C41EB-B476-4B74-868B-CF1E7BE721D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B9C41EB-B476-4B74-868B-CF1E7BE721D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B9C41EB-B476-4B74-868B-CF1E7BE721D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B9C41EB-B476-4B74-868B-CF1E7BE721D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
